@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">STARZ Play</string>
+    <string name="title_home">Home</string>
+    <string name="title_downloads">Downloads</string>
+    <string name="title_search">Search</string>
+    <string name="title_my_list">My List</string>
+    <string name="title_more">Settings</string>
+    <string name="hint_search">Movie, Season, Talk Show, Kids TV</string>
+</resources>
